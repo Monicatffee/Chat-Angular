@@ -1,0 +1,13 @@
+.avatar_contacto {
+    border-radius: 50%;
+    display: inline-block;
+    height: 40px;
+    margin: 0;
+    overflow: hidden;
+    width: 40px;
+}
+
+.avatar_contacto-imagen {
+    height: 100%;
+    width: 100%;
+}
