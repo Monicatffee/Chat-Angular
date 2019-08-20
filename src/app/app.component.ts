@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'chat-frontend';
+  usuario = {
+    nombre: 'Gipsy',
+    url: 'https://www.ecured.cu/images/thumb/7/7b/Usuario.jpg/260px-Usuario.jpg'
+  }
 }
